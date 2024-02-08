@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Boltaboyev Murodjon</h1>
-<h3 align="center">A passionate FullStack developer from India</h3>
+<h3 align="center">I am a FullStack developer from Uzbekistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boltaboyevmurodjon&label=Profile%20views&color=0e75b6&style=flat" alt="boltaboyevmurodjon" /> </p>
 
